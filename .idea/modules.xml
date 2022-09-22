@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Computer Science.iml" filepath="$PROJECT_DIR$/Computer Science.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImagesProcess/ImagesProcess.iml" filepath="$PROJECT_DIR$/ImagesProcess/ImagesProcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arryListExamples/arryListExamples.iml" filepath="$PROJECT_DIR$/arryListExamples/arryListExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarySearchTree/binarySearchTree.iml" filepath="$PROJECT_DIR$/binarySearchTree/binarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queues/queues.iml" filepath="$PROJECT_DIR$/queues/queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/stacks.iml" filepath="$PROJECT_DIR$/stacks/stacks.iml" />
+    </modules>
+  </component>
+</project>
